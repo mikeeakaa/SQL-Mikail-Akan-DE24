@@ -1,3 +1,3 @@
 # SQL Course
 
-gi
+Jag lär mig SQL.
