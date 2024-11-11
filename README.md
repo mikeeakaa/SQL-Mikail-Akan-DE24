@@ -1,1 +1,1 @@
-# SQL-Mikail-Akan-DE24
+# SQL Course
